@@ -1,0 +1,14 @@
+{
+  "name": "Aarav Sharma",
+  "email": "aarav.sharma@example.com",
+  "years_experience": 4.5,
+  "skills": [
+    "python",
+    "fastapi",
+    "postgres",
+    "docker",
+    "aws",
+    "langgraph",
+    "react"
+  ]
+}
